@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/findWord/static/css/main.45069906.chunk.css",
+    "main.js": "/findWord/static/js/main.ae86a74b.chunk.js",
+    "main.js.map": "/findWord/static/js/main.ae86a74b.chunk.js.map",
+    "runtime-main.js": "/findWord/static/js/runtime-main.c0eb5ee7.js",
+    "runtime-main.js.map": "/findWord/static/js/runtime-main.c0eb5ee7.js.map",
+    "static/js/2.b468ce68.chunk.js": "/findWord/static/js/2.b468ce68.chunk.js",
+    "static/js/2.b468ce68.chunk.js.map": "/findWord/static/js/2.b468ce68.chunk.js.map",
+    "index.html": "/findWord/index.html",
+    "static/css/main.45069906.chunk.css.map": "/findWord/static/css/main.45069906.chunk.css.map",
+    "static/js/2.b468ce68.chunk.js.LICENSE.txt": "/findWord/static/js/2.b468ce68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0eb5ee7.js",
+    "static/js/2.b468ce68.chunk.js",
+    "static/css/main.45069906.chunk.css",
+    "static/js/main.ae86a74b.chunk.js"
+  ]
+}
